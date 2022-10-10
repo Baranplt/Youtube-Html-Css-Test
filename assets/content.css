@@ -1,0 +1,151 @@
+.content {
+    margin-left: 250px;
+}
+
+.content-header {
+    border-bottom: 1px solid #bfbfbf;
+    padding-bottom: 10px;
+    background-color: #fff;
+    width: 87%;
+}
+
+.content-header-left {
+    margin: 10px 0 0 300px;
+}
+
+.content-header-left input {
+    width: 550px;
+    height: 20px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.content-header-left i {
+    font-size: 20px;
+}
+
+.header-left-i {
+    background-color: #F9F9F9;
+    padding: 13px 15px;
+    border-radius: 100%;
+    margin-left: 5px;
+}
+
+.content-header-right {
+    margin-top: 10px;
+}
+
+.content-header-right i {
+    margin-right: 50px;
+    font-size: 20px;
+}
+
+.c-user {
+    cursor: pointer;
+    margin-right: 50px;
+    font-size: 20px;
+    background-color: #F4521D;
+    padding: 10px 15px;
+    color: white;
+    border-radius: 100%;
+}
+
+.content-bar-item {
+    background-color: #F9F9F9;
+    padding: 10px;
+    border-radius: 100px;
+    border: 1px solid #bfbfbf;
+    margin-right: 10px;
+
+}
+
+.content-bar {
+    border-bottom: 1px solid #bfbfbf;
+    margin-top: 67px;
+    background-color: #fff;
+    padding: 10px 0 10px 50px;
+    width: 87%;
+}
+
+.content-bar-item a {
+    font-size: 14px;
+    color: #030303;
+}
+
+.content-main {
+    padding: 50px;
+    background-color: #F9F9F9;
+    border-bottom: 1px solid #bfbfbf;
+    margin-top: 80px;
+
+}
+
+.content-main-item {
+    padding: 10px;
+}
+
+.content-main-user {
+    color: #030303;
+    font-weight: 100;
+    padding-bottom: 5px;
+}
+
+.content-main-item-img img {
+    width: 100%;
+}
+
+.content-main-item-name h1 {
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: 500;
+    color: #030303;
+    padding: 20px 0;
+}
+
+.content-main-item-sub h2 {
+    font-weight: 100;
+    color: #030303;
+
+}
+
+.content-short {
+
+    padding: 50px;
+    background-color: #F9F9F9;
+}
+
+.content-short-hdr {
+    padding: 20px 0 20px 15px;
+}
+
+.content-short i {
+    color: red;
+    font-size: 30px;
+    margin-right: 15px;
+}
+
+.content-short h1 {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.content-short-item {
+    margin-right: 40px;
+}
+
+.content-main-item-img img {
+    width: 100%;
+}
+
+.content-short-item-name h1 {
+    font-size: 20px;
+    line-height: 22px;
+    color: #030303;
+    padding: 20px 0;
+}
+
+.content-short-item-sub h2 {
+    font-weight: 100;
+    color: #030303;
+
+}

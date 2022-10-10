@@ -1,0 +1,46 @@
+.side-bar-right {
+    padding: 15px 15px 0 35px;
+
+}
+
+.side-bar-item {
+    border-bottom: 1px solid #bfbfbf;
+}
+
+.side-bar-item ul li {
+    margin: 25px 0;
+}
+
+.side-bar-hdr i {
+    font-size: 13px;
+    color: #030303;
+    margin-right: 30px;
+}
+
+.side-bar-item a {
+    color: #030303;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.side-bar-item a i {
+    color: black;
+    margin-right: 30px;
+}
+
+.side-bar-abone h1 {
+    margin-top: 15px;
+}
+
+.side-bar-abone ul li {
+    margin: 20px 0;
+}
+
+.side-bar-abone a {
+    color: #030303;
+}
+
+.side-bar-abone img {
+    margin-right: 30px;
+}

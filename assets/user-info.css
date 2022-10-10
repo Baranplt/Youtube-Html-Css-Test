@@ -1,0 +1,84 @@
+.user-info {
+    width: 350px;
+    position: absolute;
+    right: 0px;
+    position: fixed;
+    background-color: white;
+    top: 0px;
+}
+
+
+.user-exit i {
+    color: red;
+    font-size: 40px;
+    margin-left: 40px;
+}
+
+.brd {
+    border-bottom: 1px solid #bfbfbf;
+}
+
+.user-info-header {
+    padding: 20px;
+}
+
+.user-info-desc h1 {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    color: #030303;
+}
+
+.user-info-desc h2 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #065fd4;
+}
+
+.c-user {
+
+    margin-right: 20px;
+    font-size: 20px;
+    background-color: #F4521D;
+    padding: 10px 15px;
+    color: white;
+    border-radius: 100%;
+}
+
+
+.user-info-list ul {
+    padding-left: 10px;
+}
+
+.user-info-list ul li {
+    list-style-type: none;
+    padding: 15px 0;
+
+}
+
+.user-info-list ul li:hover {
+    background-color: #F2F2F2;
+}
+
+.user-info-list ul li a img {
+    margin-right: 20px;
+}
+
+.user-info-list ul li a {
+    text-decoration: none;
+    color: #030303;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    line-height: 20px;
+
+
+}
+
+.user-info-list ul li a i {
+    position: absolute;
+
+    left: 220px;
+}
